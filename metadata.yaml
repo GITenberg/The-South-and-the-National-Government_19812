@@ -1,0 +1,32 @@
+_repo: The-South-and-the-National-Government_19812
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taft, William H. (William Howard)
+    aliases:
+    - Taft, William Howard
+    - United States President (1909-1913)
+    - Taft, W. H. (William Howard)
+    birthdate: 1857
+    deathdate: 1930
+    gutenberg_agent_id: '3382'
+    url: http://www.gutenberg.org/2009/agents/3382
+    wikipedia: http://en.wikipedia.org/wiki/William_Howard_Taft
+description: ''
+gutenberg_issued: '2006-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19812'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Southern States'
+- !lcsh 'African Americans'
+title: The South and the National Government
+url: http://www.gutenberg.org/ebooks/19812
