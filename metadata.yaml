@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3382
     wikipedia: http://en.wikipedia.org/wiki/William_Howard_Taft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19812#The-South-and-the-National-Government
 gutenberg_issued: '2006-11-14'
 gutenberg_type: Text
 identifiers:
